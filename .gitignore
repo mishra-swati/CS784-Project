@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+data/instructors.csv
+data/rooms.csv
+data/schedules.csv
+data/sections.csv
+data/subject_memberships.csv
+data/subjects.csv
+data/teachings.csv
+*.docx
+*.ini
